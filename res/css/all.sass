@@ -1,0 +1,27 @@
+---
+---
+
+/* Import Bourbon Tools */
+@import 'tools/-tools-dir'
+
+/* Start of General Properties */
+$animation: {{ site.data.layout.animation }}
+$logo-path: '{{ site.data.layout.logo }}'
+$hero-path: '{{ site.data.layout.hero }}'
+$avatar-path: '{{ site.data.layout.avatar }}'
+
+$accent: {{ site.data.layout.accent }}
+$accent-light: adjust-hue(saturate(lighten($accent, 11%), 12.6%), 14%)
+$selectionColor: lighten($accent, 30%)
+
+$textColor: {{ site.data.layout.textColor }}
+$headlineColor: {{ site.data.layout.headlineColor }}
+$bgcolor: {{ site.data.layout.bgcolor }}
+$documentBackgroundColor: {{ site.data.layout.documentBackgroundColor }}
+
+/* Import the Base Dir */
+@import 'base/-base-dir'
+
+/* Import the Sections Dir */
+@import 'sections/-sections-dir'
+

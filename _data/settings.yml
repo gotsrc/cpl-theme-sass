@@ -1,0 +1,18 @@
+#-----------------------------------------
+# General Website Settings
+# ----------------------------------------
+
+title: Coventry Pokemon League
+description: Coventry's ONLY Officially sanctioned Pokemon League
+email: events@coventrypokemonleague.co.uk
+
+menu:
+- {name: Home Page, url: ''}
+- {name: About Us, url: '#about-us'}
+
+seo:
+    description: 'Coventry Pokemon League is the only officially sanctioned Pokemon League based in Coventry, West Midlands, United Kingdom.'
+    rel-author: 'http://www.gotsrc.com'
+    rel-publisher: 'http://www.gotsrc.com'
+
+

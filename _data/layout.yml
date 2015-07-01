@@ -1,0 +1,16 @@
+# Layout Settings
+
+animation: "bounceOut"
+
+# Images
+logo: "logo.svg"
+hero: "hero-bg.jpg"
+avatar: "travatar.jpg"
+
+# Colors
+
+accent: "#39abf9"
+textColor: "#666"
+headlineColor: "#39abf9"
+bgcolor: "#e5eaee"
+documentBackgroundColor: "#fff"
