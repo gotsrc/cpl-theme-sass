@@ -12,7 +12,8 @@ article.type-system-sans {
   @include outer-container;
   @include clearfix;
   text-align: left;
-  
+  padding: 15px;
+
   h1, h2, h3, p {
     margin: 0;
   }

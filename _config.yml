@@ -14,8 +14,8 @@ github_username:  gotsrc
 markdown: kramdown
 permalink: pretty
 
-host: 192.168.1.88
-port: 8000
+host: 192.168.1.90
+port: 8080
 
 sass:
     sass_dir: res/css

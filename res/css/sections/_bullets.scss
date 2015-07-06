@@ -10,8 +10,7 @@
   margin-bottom: $base-line-height;
   margin: 1em;
   overflow: auto;
-  padding: 0;
-  @include outer-container(960px);
+  padding: 5px;
 
   .bullet {
 	@include flex-basis(20em);
